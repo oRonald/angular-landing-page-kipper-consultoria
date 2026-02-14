@@ -1,59 +1,39 @@
-# LandingPage
+<div align="center">
+  <h1>Landing Page Kipper Consultoria</h1>
+</div>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Development server
+<div align="center">
+  <img width="50%" height="3068" alt="image" src="https://github.com/user-attachments/assets/d81f07a3-b2a8-4f9f-9f95-430a17028d10" />
+</div>
 
-To start a local development server, run:
+## 📌 Sobre
+<p>Este repositório contém uma Landing Page feita para praticar e aprender Angular 21 usando o mecanismo SSR (Server-Side-Rendering), construído com a ajuda da 
+<a href="https://github.com/Fernanda-Kipper" text-style="bold"> <strong>Fernanda Kipper</strong> </a> neste <a href="https://www.youtube.com/watch?v=O26fDEnAukY">vídeo.</a></p>
 
-```bash
-ng serve
+## 🚀 Como Utilizar
+Aqui está descrito como rodar o projeto localmente
+
+<h3>Pré-Requisitos</h3>
+<p>Lista de pré-requisitos necessários para rodar o projeto:</p>
+
+- NodeJS
+- Git
+
+### Clonando
+
+``` Git
+git clone https://github.com/oRonald/angular-landing-page-kipper-consultoria.git
+cd angular-landing-page-kipper-consultoria
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
+### Inicializando
+``` NodeJS
+npm install
+npm start
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+### Links do projeto
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- <a href="https://www.figma.com/design/JbHAcivlz9PqqnWfzoZU8W/Portfolio---LIVE-Angular?node-id=2265-60&t=YV6Jw9FD2m2bDXFI-0">Figma Layout</a>
